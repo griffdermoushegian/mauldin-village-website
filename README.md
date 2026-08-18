@@ -67,6 +67,16 @@ and follow the commented `<figure>` pattern in `gallery.html`. The home hero use
 - After deploying: submit `sitemap.xml` in Google Search Console, validate JSON-LD with the
   Rich Results Test, and create a Google Business Profile for the property.
 
+## Deployment (Render)
+- **Live URL**: https://mauldinvillage.com (Render URL: https://mauldin-village.onrender.com)
+- **Render service**: `mauldin-village` (`srv-da26nkou01pc73duqfs0`), static site, BFG workspace
+  (`tea-d5n56bq4d50c73dfo4gg`) — [dashboard](https://dashboard.render.com/static/srv-da26nkou01pc73duqfs0)
+- **Repo**: https://github.com/griffdermoushegian/mauldin-village-website — pushes to `main`
+  auto-deploy (publish path `.`, no build command)
+- **Custom domains**: `mauldinvillage.com` (primary) + `www` (redirects to apex).
+  DNS at GoDaddy: `A @ → 216.24.57.1`, `CNAME www → mauldin-village.onrender.com`
+- To publish changes: commit in this folder and `git push`
+
 ## Viewing locally
 ```bash
 cd MauldinVillage
