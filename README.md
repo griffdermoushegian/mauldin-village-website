@@ -45,8 +45,6 @@ one "interiors coming soon" placeholder tile. When new photos arrive, drop them 
 and follow the commented `<figure>` pattern in `gallery.html`. The home hero uses `photo-3.jpg`.
 
 ## ⚠️ Placeholders to replace before launch
-- **Email** `mauldinvillage@bradenfellman.com` — assumed from the BFG naming pattern; confirm
-  the mailbox exists.
 - **Office hours** Mon–Fri 9–5 — assumed; confirm with the leasing team.
 - **Domain** — all absolute URLs use `https://mauldinvillage.com`. If deploying elsewhere,
   find-and-replace across `*.html`, `sitemap.xml`, `robots.txt`, `llms.txt`.
