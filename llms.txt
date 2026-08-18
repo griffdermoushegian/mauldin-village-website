@@ -25,9 +25,9 @@
 
 ## Pages
 
-- [Home](https://www.mauldinvillage.com/): community overview, highlights, FAQ
-- [Floor Plans](https://www.mauldinvillage.com/floor-plans.html): plan details, comparison table, live availability (AppFolio), online application
-- [Amenities](https://www.mauldinvillage.com/amenities.html): home features and community amenities
-- [Gallery](https://www.mauldinvillage.com/gallery.html): community photos (interior photos coming as renovations complete)
-- [Neighborhood](https://www.mauldinvillage.com/neighborhood.html): nearby anchors, map, and directions
-- [Contact](https://www.mauldinvillage.com/contact.html): tour requests, phone, email, office hours
+- [Home](https://mauldinvillage.com/): community overview, highlights, FAQ
+- [Floor Plans](https://mauldinvillage.com/floor-plans.html): plan details, comparison table, live availability (AppFolio), online application
+- [Amenities](https://mauldinvillage.com/amenities.html): home features and community amenities
+- [Gallery](https://mauldinvillage.com/gallery.html): community photos (interior photos coming as renovations complete)
+- [Neighborhood](https://mauldinvillage.com/neighborhood.html): nearby anchors, map, and directions
+- [Contact](https://mauldinvillage.com/contact.html): tour requests, phone, email, office hours

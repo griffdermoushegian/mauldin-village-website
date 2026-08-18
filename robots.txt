@@ -38,4 +38,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://www.mauldinvillage.com/sitemap.xml
+Sitemap: https://mauldinvillage.com/sitemap.xml

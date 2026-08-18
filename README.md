@@ -48,7 +48,7 @@ and follow the commented `<figure>` pattern in `gallery.html`. The home hero use
 - **Email** `mauldinvillage@bradenfellman.com` — assumed from the BFG naming pattern; confirm
   the mailbox exists.
 - **Office hours** Mon–Fri 9–5 — assumed; confirm with the leasing team.
-- **Domain** — all absolute URLs use `https://www.mauldinvillage.com`. If deploying elsewhere,
+- **Domain** — all absolute URLs use `https://mauldinvillage.com`. If deploying elsewhere,
   find-and-replace across `*.html`, `sitemap.xml`, `robots.txt`, `llms.txt`.
 - **Amenity details** — pet policy, parking, and unit finishes are deliberately vague pending
   confirmation; tighten the Amenities page once renovations settle.
